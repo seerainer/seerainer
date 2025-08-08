@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Philipp!
+# 👋 Hi there, I'm Philipp Seerainer!
 
 ## 🚀 About Me
 
