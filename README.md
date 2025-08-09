@@ -11,7 +11,7 @@
 ## 📈 Stats
 
 <p align="center">
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seerainer&theme=neon&hide_border=true&layout=compact&langs_count=10" width="400px" alt="languages graph">
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seerainer&theme=transparent&hide_border=true&layout=compact&card_width=320&langs_count=8" width="400" alt="languages graph" />
 </p>
 
 ---
