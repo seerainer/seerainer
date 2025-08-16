@@ -1,13 +1,5 @@
 # 👋 Hi there, I'm Philipp Seerainer!
 
-### 🚀 About Me
-
-- 🧑‍💻 Software Developer | Open Source Enthusiast
-- 🌍 Based in ***[🇦🇹 Austria/Salzburg](https://www.openstreetmap.org/#map=13/47.80/13.05)***
-- 👨‍🎓 Passionate about clean code, automation, and sharing knowledge
-
----
-
 ### 📈 Stats
 
 <p align="center">
