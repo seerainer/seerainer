@@ -1,14 +1,13 @@
-# 👋 Hi there, I'm Philipp Seerainer!
-
-### 📈 Stats
+## 📈 Stats
 
 <p align="center">
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seerainer&theme=transparent&hide_border=true&layout=compact&card_width=320&langs_count=8" width="400" alt="languages graph" />
+   <img src="https://github-readme-stats.vercel.app/api?username=seerainer&theme=transparent&hide_border=true&card_width=320&include_all_commits=false&count_private=false" width="400" alt="stats graph" />
 </p>
 
 ---
 
-### 🤝 Let's Connect!
+## 🤝 Let's Connect!
 
 <a href="mailto:philipp@seerainer.com"><img src="https://img.shields.io/badge/Email-philipp@seerainer.com-blue" alt="Email" /></a>
 <details>
