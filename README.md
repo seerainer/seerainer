@@ -8,8 +8,6 @@
   </a>
 </p>
 
----
-
 ## 🤝 Let's Connect!
 
 <a href="mailto:philipp@seerainer.com"><img src="https://img.shields.io/badge/Email-philipp@seerainer.com-blue" alt="Email" /></a>
