@@ -1,8 +1,8 @@
 ## 📈 Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seerainer&theme=transparent&hide_border=true&layout=compact&card_width=320&langs_count=8" width="320" alt="languages graph" />
-  <img src="https://github-readme-stats.vercel.app/api?username=seerainer&theme=transparent&hide_border=true&card_width=320&include_all_commits=false&count_private=false" width="400" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seerainer&theme=transparent&hide_border=true&layout=compact&card_width=320&langs_count=8" width="300" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=seerainer&theme=transparent&hide_border=true&card_width=320&show_icons=true" width="400" alt="stats graph" />
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=seerainer&theme=matrix&column=3&margin-w=25&no-bg=true&no-frame=true&rank=SECRET,SSS,SS,S,AAA,AA,A" alt="Achievement Trophies" />
   </a>
