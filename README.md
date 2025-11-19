@@ -9,8 +9,8 @@
 
 <a href="mailto:philipp@seerainer.com"><img src="https://img.shields.io/badge/Email-philipp@seerainer.com-blue" alt="Email" /></a>
 <details>
-<summary><b>🔐 PGP fingerprint: 84FA F855 8FA4 4808 B14E 9CB0 AE20 3D4D 94E2 286D</b></summary>
+<summary><b>🔐 PGP</b></summary>
   <br />
+  <p>fingerprint: 84FA F855 8FA4 4808 B14E 9CB0 AE20 3D4D 94E2 286D</p>
   <a href="https://github.com/seerainer/seerainer/raw/refs/heads/main/Philipp%20Seerainer_0x94E2286D_public.asc">Philipp Seerainer_0x94E2286D_public.asc</a>
-  <br />
 </details>
