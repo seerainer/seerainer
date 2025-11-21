@@ -5,12 +5,12 @@
   <img src="https://github-readme-stats.vercel.app/api?username=seerainer&theme=transparent&hide_border=true&card_width=320&show_icons=true" width="400" alt="stats graph" />
 </p>
 
-## 🤝 Let's Connect!
+## 📧 Contact
 
 <a href="mailto:philipp@seerainer.com"><img src="https://img.shields.io/badge/Email-philipp@seerainer.com-blue" alt="Email" /></a>
 <details>
 <summary><b>🔐 PGP</b></summary>
   <br />
   <p>fingerprint: 84FA F855 8FA4 4808 B14E 9CB0 AE20 3D4D 94E2 286D</p>
-  <a href="https://github.com/seerainer/seerainer/raw/refs/heads/main/public-key.asc">public-key.asc</a>
+  <a href="https://github.com/seerainer/seerainer/raw/refs/heads/main/public-key.asc" target="_blank">public-key.asc</a>
 </details>
