@@ -2,7 +2,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seerainer&theme=transparent&hide_border=true&layout=compact&card_width=320&langs_count=8&size_weight=0.5&count_weight=0.5" width="300" alt="languages graph" />
-  <img src="https://github-readme-stats.vercel.app/api?username=seerainer&theme=transparent&hide_border=true&card_width=320&show_icons=true" width="400" alt="stats graph" />
+  <!-- <img src="https://github-readme-stats.vercel.app/api?username=seerainer&theme=transparent&hide_border=true&card_width=320&show_icons=true" width="400" alt="stats graph" /> -->
 </p>
 
 ## 📧 Contact
@@ -12,5 +12,5 @@
 <summary><b>🔐 PGP</b></summary>
   <br />
   <p>fingerprint: 84FA F855 8FA4 4808 B14E 9CB0 AE20 3D4D 94E2 286D</p>
-  <a href="https://github.com/seerainer/seerainer/raw/refs/heads/main/public-key.asc" target="_blank">public-key.asc</a>
+  <a href="https://github.com/seerainer/seerainer/raw/refs/heads/main/public-key.asc">public-key.asc</a>
 </details>
