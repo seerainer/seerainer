@@ -1,14 +1,12 @@
-<!--
 ## 📈 Stats
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seerainer&theme=transparent&hide_border=true&layout=compact&card_width=320&langs_count=8&size_weight=0.5&count_weight=0.5" width="300" alt="languages graph" />
-<img src="https://github-readme-stats.vercel.app/api?username=seerainer&theme=transparent&hide_border=true&card_width=320&show_icons=true" width="400" alt="stats graph" />
-</p>
--->
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=seerainer&theme=transparent)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=seerainer&theme=transparent)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=seerainer&theme=transparent)
+</div>
 
 ## 📧 Contact
-
 <a href="mailto:philipp@seerainer.com"><img src="https://img.shields.io/badge/Email-philipp@seerainer.com-blue" alt="Email" /></a>
 <details>
 <summary><b>🔐 PGP</b></summary>
