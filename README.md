@@ -13,7 +13,6 @@
 <details>
 <summary><b>🔐 PGP</b></summary>
   <br />
-  <p>fingerprint:</p>
-  <pre>84FA F855 8FA4 4808 B14E 9CB0 AE20 3D4D 94E2 286D</pre>
+  <pre title="Fingerprint">84FA F855 8FA4 4808 B14E 9CB0 AE20 3D4D 94E2 286D</pre>
   <a href="https://github.com/seerainer/seerainer/raw/refs/heads/main/public-key.asc">public-key.asc</a>
 </details>
